@@ -1,1 +1,1 @@
-# Chest-X-Ray-Detection
+# Chest_x_ray_Detection
